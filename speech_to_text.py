@@ -1,4 +1,11 @@
 # less fast but more accurate.
+#add the library using the following functions in cmd 
+# pip install SpeechRecognition
+# pip install pocketsphinx
+# pip install pyaudio
+# pip install langdetect
+
+
 
 
 import speech_recognition as sr
