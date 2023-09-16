@@ -1,4 +1,4 @@
-
+#import the library pygames (pip install pygames)
 
 import pygame
 import sys
